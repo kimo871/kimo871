@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimo871
 - 👀 I’m interested in front end Web Development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on making a project using api for specific targets to the site
+- 💞️ I’m looking to collaborate on making a Real-life projects.
 - 📫 How to reach me :<br/>
 Linkedin : https://www.linkedin.com/in/mohamed-kamal-798202224
 
